@@ -206,34 +206,33 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-# Ignorar imágenes
+# Ignore images
 *.jpg
 *.jpeg
 *.png
 *.gif
 
-# Ignorar carpetas de data (si son muy pesadas)
-# Descomenta la línea si no quieres subir NINGÚN dato al repositorio
-# data/
+# Ignore data folders (if they are very large)
+# Uncomment the line below if you don't want to push ANY data to the repository
+data/
 
-# Ignorar archivos de sistema
+# Ignore system files
 .DS_Store
 Thumbs.db
 
-# Ignorar entornos virtuales de Python
+# Ignore Python virtual environments
 venv/
 *.env
 .env
 
-# Ignorar archivos compilados de Python y cachés
+# Ignore Python compiled files and caches
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 
-# Ignorar archivos de configuración de IDEs
+# Ignore IDE configuration files
 .vscode/
 .idea/
-
 
 delitos_imagenes_santiago_traducido.csv
