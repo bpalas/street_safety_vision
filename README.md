@@ -2,11 +2,7 @@
 
 
 
-# Street Safety Vision
 
-## Descripción
-
-Este proyecto utiliza modelos de visión por computadora para analizar la seguridad en las calles a gran escala. Se aprovecha la API de OpenAI por lotes (batch) para realizar inferencias de manera económica y rápida.
 
 ## Estructura del Proyecto
 
