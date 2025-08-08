@@ -205,3 +205,32 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Ignorar imágenes
+*.jpg
+*.jpeg
+*.png
+*.gif
+
+# Ignorar carpetas de data (si son muy pesadas)
+# Descomenta la línea si no quieres subir NINGÚN dato al repositorio
+# data/
+
+# Ignorar archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar entornos virtuales de Python
+venv/
+*.env
+.env
+
+# Ignorar archivos compilados de Python y cachés
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar archivos de configuración de IDEs
+.vscode/
+.idea/
